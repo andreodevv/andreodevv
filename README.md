@@ -1,57 +1,62 @@
 <div align="center">
-  <h1>🚀 André Araújo Silva</h1>
-  <h3>Tech Lead | Software Architect | Cybersecurity Specialist</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=250&section=header&text=André%20Araújo%20Silva&fontSize=60&animation=fadeIn&fontAlignY=35" />
+</div>
 
-  <p>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=strapi&logoColor=white" />
-  </p>
+<div align="center">
+  <h3>⚡ Senior Full Stack Engineer | Software Architect | Cybersecurity</h3>
+  <p><i>Especialista em ecossistemas de alta disponibilidade e performance extrema.</i></p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=strapi&logoColor=white" />
 </div>
 
 ---
 
-### 🌐 Conexão de Alto Impacto
-* **Expertise em Alta Escala:** Projetando arquiteturas resilientes para ecossistemas com mais de **17 milhões de usuários** e **milhões de requisições por minuto**[cite: 455].
-* [cite_start]**Security & Data Governance:** Pós-graduado em **Cibersegurança** pela PUC Minas, com foco em **Security by Design** e conformidade rigorosa com a **LGPD**[cite: 424, 429].
-* [cite_start]**AI-Driven Engineering:** Pioneiro no uso de **Agentes de IA e Cursor** para automação de refatoração complexa e otimização de performance[cite: 448].
+## 🛠️ Dashboard de Competências
 
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-| 🏗️ Arquitetura | 🗄️ Dados & Infra | 🧪 Qualidade |
+| 🏗️ Arquitetura | 🗄️ Infra & Data | 🧪 Qualidade |
 | :--- | :--- | :--- |
-| [cite_start]**DDD / EDA / MVC** [cite: 434] | [cite_start]**PostgreSQL (Big Data)** [cite: 437] | [cite_start]**TDD (100% Core Coverage)** [cite: 444] |
-| [cite_start]**Service Layer** [cite: 434] | [cite_start]**Redis Cache** [cite: 438] | [cite_start]**Selenium / Laravel Dusk** [cite: 441, 461] |
-| **Microservices** | [cite_start]**AWS (EC2, S3, RDS)** [cite: 435] | [cite_start]**Sentry Observability** [cite: 445, 463] |
+| **DDD / EDA / MVC** | **PostgreSQL (Big Data)** | **TDD (100% Core Coverage)** |
+| **Service Layer** | **Redis / Cache** | **Selenium / Laravel Dusk** |
+| **Microservices** | **AWS (EC2, S3, RDS)** | **Sentry Observability** |
 
 ---
 
-### 📊 Github Stats
-<p align="center">
+## 📈 Métricas de Impacto (Real-Time Insight)
+
+> [!IMPORTANT]
+> **Alta Escala:** Atuação direta em plataformas com **17 milhões de usuários** e milhões de requisições por minuto.
+
+* 🚀 **Performance**: Redução de tempo de carregamento de **2min para <20s** em relatórios complexos.
+* 🛡️ **Segurança**: Projetos focados em **Security by Design** e conformidade total com a **LGPD**.
+* 🏗️ **Automação**: Migração estratégica de **50.000+ aulas** via crawlers de alta precisão.
+* 🚑 **Resiliência**: Gerenciamento de incidentes críticos com **SLA de 2 horas**.
+
+---
+
+## 📊 Engenharia de Dados & Atividade
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre1753&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre1753&layout=compact&langs_count=7&theme=radical"/>
-</p>
+</div>
 
 ---
 
-### 📈 Métricas de Impacto Reais
-- [cite_start]🎓 **17M+** Alunos gerenciados em plataformas LMS de alta escala[cite: 455].
-- [cite_start]⚡ **20s** Redução de tempo em relatórios complexos (de 2min para <20s)[cite: 484].
-- [cite_start]🛡️ **100%** Cobertura em gateways de pagamento e webhooks críticos[cite: 456].
-- [cite_start]🚑 **2h** SLA para incidentes de alta criticidade em ambiente produtivo[cite: 462].
+## 🤖 AI-Driven Development
+* Utilizo fluxos de trabalho avançados com **Cursor** e **Agentes de IA** para otimização de performance e refatoração arquitetural.
+* Foco em redução de **Time-to-Market** mantendo rigor técnico absoluto.
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=Software%20is%20a%20great%20combination%20between%20artistry%20and%20engineering.&author=Bill%20Gates&theme=radical" />
-</p>
-
-<p align="center">
+<div align="center">
+  <p><b>Conecte-se comigo para projetos de alta complexidade:</b></p>
   <a href="https://linkedin.com/in/andre1753">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</div>
