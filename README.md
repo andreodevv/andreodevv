@@ -51,19 +51,6 @@
 
 ---
 
-## 📊 Github Engineering Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre1753&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre1753&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-## 🤖 AI-Driven Workflow
-* Desenvolvimento acelerado com **Agentes de IA e Cursor**.
-* Foco em **redução de Time-to-Market** e refatoração arquitetural guiada.
-
----
 
 <div align="center">
   <p><b>Conecte-se comigo:</b></p>
