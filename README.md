@@ -1,62 +1,69 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=250&section=header&text=André%20Araújo%20Silva&fontSize=60&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0077b5&height=200&section=header&text=André%20Araújo%20Silva&fontSize=50&animation=slow&fontAlignY=40" />
 </div>
 
 <div align="center">
-  <h3>⚡ Senior Full Stack Engineer | Software Architect | Cybersecurity</h3>
-  <p><i>Especialista em ecossistemas de alta disponibilidade e performance extrema.</i></p>
+  <h3>⚡ Senior Full Stack Engineer | Software Architect | Cybersecurity Specialist</h3>
+  <p><i>Engenharia de Software focada em Alta Disponibilidade, Escalabilidade e Performance Extrema.</i></p>
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=strapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_AI-555555?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
 ---
 
-## 🛠️ Dashboard de Competências
+## 🏗️ Enterprise Architecture Dashboard
 
-| 🏗️ Arquitetura | 🗄️ Infra & Data | 🧪 Qualidade |
+| 🚀 Arquitetura & Patterns | ☁️ Infra & Big Data | 🛡️ Qualidade & Cyber |
 | :--- | :--- | :--- |
-| **DDD / EDA / MVC** | **PostgreSQL (Big Data)** | **TDD (100% Core Coverage)** |
-| **Service Layer** | **Redis / Cache** | **Selenium / Laravel Dusk** |
-| **Microservices** | **AWS (EC2, S3, RDS)** | **Sentry Observability** |
+| **Domain-Driven Design (DDD)** | **PostgreSQL (Big Data)** | **TDD (100% Core Coverage)** |
+| **Event-Driven (EDA)** | **AWS (EC2, S3, RDS)** | **Security by Design** |
+| **Service Layer / Repository** | **Redis / Cache Layers** | **LGPD Compliance** |
+| **Microservices** | **Docker & Traefik** | **Sentry Observability** |
 
 ---
 
-## 📈 Métricas de Impacto (Real-Time Insight)
+## 📈 Métricas de Impacto (Real-World Results)
 
 > [!IMPORTANT]
-> **Alta Escala:** Atuação direta em plataformas com **17 milhões de usuários** e milhões de requisições por minuto.
+> **Expertise em Alta Escala:** Atuação em sistemas de **17 milhões de usuários** com milhões de requisições por minuto.
 
-* 🚀 **Performance**: Redução de tempo de carregamento de **2min para <20s** em relatórios complexos.
-* 🛡️ **Segurança**: Projetos focados em **Security by Design** e conformidade total com a **LGPD**.
-* 🏗️ **Automação**: Migração estratégica de **50.000+ aulas** via crawlers de alta precisão.
+* 🎓 **Educação**: Gestão de **50.000+ aulas** e automação de migração massiva.
+* ⚡ **Performance**: Redução de tempo em relatórios complexos de **2min para <20s**.
+* 🛡️ **Integridade**: **100% de cobertura** em Gateways de Pagamento e Webhooks.
 * 🚑 **Resiliência**: Gerenciamento de incidentes críticos com **SLA de 2 horas**.
 
 ---
 
-## 📊 Engenharia de Dados & Atividade
-
+## 📊 Github Engineering Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre1753&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre1753&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre1753&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre1753&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
 
-## 🤖 AI-Driven Development
-* Utilizo fluxos de trabalho avançados com **Cursor** e **Agentes de IA** para otimização de performance e refatoração arquitetural.
-* Foco em redução de **Time-to-Market** mantendo rigor técnico absoluto.
+## 🤖 AI-Driven Workflow
+* Desenvolvimento acelerado com **Agentes de IA e Cursor**.
+* Foco em **redução de Time-to-Market** e refatoração arquitetural guiada.
 
 ---
 
 <div align="center">
-  <p><b>Conecte-se comigo para projetos de alta complexidade:</b></p>
-  <a href="https://linkedin.com/in/andre1753">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+  <p><b>Conecte-se comigo:</b></p>
