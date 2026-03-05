@@ -1,20 +1,22 @@
-# 🚀 André Araújo Silva
-### Tech Lead | Software Architect | Cybersecurity Specialist
+<div align="center">
+  <h1>🚀 André Araújo Silva</h1>
+  <h3>Tech Lead | Software Architect | Cybersecurity Specialist</h3>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=strapi&logoColor=white" />
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=strapi&logoColor=white" />
+  </p>
+</div>
 
 ---
 
 ### 🌐 Conexão de Alto Impacto
-* [cite_start]**Expertise em Alta Escala:** Projetando arquiteturas resilientes para ecossistemas com mais de **17 milhões de usuários** e **milhões de requisições por minuto**[cite: 455].
+* **Expertise em Alta Escala:** Projetando arquiteturas resilientes para ecossistemas com mais de **17 milhões de usuários** e **milhões de requisições por minuto**[cite: 455].
 * [cite_start]**Security & Data Governance:** Pós-graduado em **Cibersegurança** pela PUC Minas, com foco em **Security by Design** e conformidade rigorosa com a **LGPD**[cite: 424, 429].
-* [cite_start]**AI-Driven Engineering:** Pioneiro no uso de **Agentes de IA e Cursor** para automação de refatoração complexa e otimização de performance.
+* [cite_start]**AI-Driven Engineering:** Pioneiro no uso de **Agentes de IA e Cursor** para automação de refatoração complexa e otimização de performance[cite: 448].
 
 ---
 
@@ -29,7 +31,7 @@
 ---
 
 ### 📊 Github Stats
-<p align="left">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre1753&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre1753&layout=compact&langs_count=7&theme=radical"/>
 </p>
