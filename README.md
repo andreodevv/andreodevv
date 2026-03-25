@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>⚡ Senior Full Stack Engineer | Software Architect | Cybersecurity Specialist</h3>
+  <h3>⚡ Senior Full Stack Developer | Software Architect | Cybersecurity Specialist</h3>
   <p><i>Engenharia de Software focada em Alta Disponibilidade, Escalabilidade e Performance Extrema.</i></p>
 </div>
 
