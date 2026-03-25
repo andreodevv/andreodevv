@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0077b5&height=200&section=header&text=André%20Araújo%20Silva&fontSize=50&animation=slow&fontAlignY=40" />
-</div>
-
-<div align="center">
   <h3>⚡ Senior Full Stack Developer | Software Architect | Cybersecurity Specialist</h3>
   <p><i>Engenharia de Software focada em Alta Disponibilidade, Escalabilidade e Performance Extrema.</i></p>
 </div>
