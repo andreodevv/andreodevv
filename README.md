@@ -17,28 +17,9 @@
 
 ---
 
-### `// SOBRE`
-
-Desenvolvedor de Software especializado em **sistemas distribuídos**, **arquiteturas de alta disponibilidade** e **resiliência**. Projetei e sustentei o core de plataformas processando **milhões de requisições por minuto** para uma base de **mais de 30 milhões de usuários ativos**.
-
-Minha atuação foca na intersecção entre **engenharia rigorosa, arquitetura de negócio e cibersegurança**, garantindo que a escalabilidade agressiva do negócio não comprometa a estabilidade, a performance de I/O ou a proteção dos dados.
-
----
-
-### `// FILOSOFIA DE ENGENHARIA & ARQUITETURA`
-
-Minhas decisões baseiam-se na análise rigorosa de *trade-offs*, priorizando manutenibilidade e confiabilidade em sistemas de missão crítica:
-
-```
-[ EDA · RabbitMQ+Redis ] ┈┈▶ [ SECURITY · OWASP·LGPD ] ┈┈▶ [ QA · 100% TDD ] ┈┈▶ [ PERF · SLA sob estresse ]
-```
-
-| Pilar | Aplicação prática |
-| :--- | :--- |
-| `EDA` **Sistemas Distribuídos & Mensageria** | Desacoplamento de fluxos monolíticos com Event-Driven Architecture. Processamento assíncrono massivo e tolerância a falhas via **RabbitMQ** e **Redis**. |
-| `SEC` **Segurança Integrada (Security by Design)** | Especialista em Cibersegurança pela **PUC Minas**. Criptografia nativa, mitigação de vetores **OWASP** e governança de dados (**LGPD**) na camada base da aplicação. |
-| `QA` **Qualidade & Confiabilidade** | Liderança técnica na adoção de testes automatizados. Histórico de **100% code coverage (TDD)** em gateways de pagamento e fluxos transacionais com idempotência absoluta. |
-| `PERF` **Performance & Escalabilidade** | Tuning avançado em **PostgreSQL/MySQL**, locks distribuídos contra race conditions e caching em múltiplas camadas para SLAs rigorosos sob alto estresse de tráfego. |
+<div align="center">
+  <img src="./assets/philosophy-blueprint.svg" width="100%" alt="Filosofia de Engenharia & Arquitetura" />
+</div>
 
 ---
 

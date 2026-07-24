@@ -1,0 +1,79 @@
+<svg width="1000" height="700" viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid2" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#00e0ff" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="700" fill="#0a1729"/>
+  <rect width="1000" height="700" fill="url(#grid2)"/>
+
+  <g stroke="#00e0ff" stroke-opacity="0.45" stroke-width="1.5">
+    <path d="M18 34 V18 H34" fill="none"/>
+    <path d="M966 18 H982 V34" fill="none"/>
+    <path d="M982 666 V682 H966" fill="none"/>
+    <path d="M34 682 H18 V666" fill="none"/>
+  </g>
+
+  <text x="60" y="50" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="24" font-weight="600" fill="#f2f8fc"><tspan fill="#00e0ff">// </tspan>FILOSOFIA DE ENGENHARIA &amp; ARQUITETURA</text>
+
+  <g font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" fill="#9fb9cc">
+    <text x="60" y="84">Minhas decis&#245;es baseiam-se na an&#225;lise rigorosa de trade-offs, priorizando</text>
+    <text x="60" y="106">manutenibilidade e confiabilidade em sistemas de miss&#227;o cr&#237;tica:</text>
+  </g>
+
+  <rect x="60" y="128" width="880" height="44" fill="#0d1e34" stroke="#1e3a54" stroke-width="1"/>
+  <text x="80" y="155" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#00e0ff">[ EDA ] &#9480;&#9480;&#9656; [ SECURITY ] &#9480;&#9480;&#9656; [ QA ] &#9480;&#9480;&#9656; [ PERF ]</text>
+
+  <text x="60" y="200" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.5" fill="#5c8aa3">PILAR</text>
+  <text x="340" y="200" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.5" fill="#5c8aa3">APLICA&#199;&#195;O PR&#193;TICA</text>
+  <line x1="60" y1="212" x2="940" y2="212" stroke="#1e3a54" stroke-width="1"/>
+
+  <!-- Row 1: EDA -->
+  <rect x="60" y="234" width="36" height="18" fill="none" stroke="#00e0ff" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="78" y="247" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" fill="#00e0ff">EDA</text>
+  <text x="60" y="278" font-family="ui-sans-serif, sans-serif" font-size="15" font-weight="700" fill="#f2f8fc">Sistemas Distribu&#237;dos &amp;</text>
+  <text x="60" y="298" font-family="ui-sans-serif, sans-serif" font-size="15" font-weight="700" fill="#f2f8fc">Mensageria</text>
+  <g font-family="ui-sans-serif, sans-serif" font-size="14" fill="#9fb9cc">
+    <text x="340" y="242">Desacoplamento de fluxos monol&#237;ticos com Event-Driven</text>
+    <text x="340" y="262">Architecture. Processamento ass&#237;ncrono massivo e</text>
+    <text x="340" y="282">toler&#226;ncia a falhas via RabbitMQ e Redis.</text>
+  </g>
+  <line x1="60" y1="318" x2="940" y2="318" stroke="#16283d" stroke-width="1"/>
+
+  <!-- Row 2: SEC -->
+  <rect x="60" y="340" width="36" height="18" fill="none" stroke="#00e0ff" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="78" y="353" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" fill="#00e0ff">SEC</text>
+  <text x="60" y="384" font-family="ui-sans-serif, sans-serif" font-size="15" font-weight="700" fill="#f2f8fc">Seguran&#231;a Integrada</text>
+  <text x="60" y="404" font-family="ui-sans-serif, sans-serif" font-size="15" font-weight="700" fill="#f2f8fc">(Security by Design)</text>
+  <g font-family="ui-sans-serif, sans-serif" font-size="14" fill="#9fb9cc">
+    <text x="340" y="348">Especialista em Ciberseguran&#231;a pela PUC Minas.</text>
+    <text x="340" y="368">Criptografia nativa, mitiga&#231;&#227;o de vetores OWASP e</text>
+    <text x="340" y="388">governan&#231;a de dados (LGPD) na camada base da aplica&#231;&#227;o.</text>
+  </g>
+  <line x1="60" y1="424" x2="940" y2="424" stroke="#16283d" stroke-width="1"/>
+
+  <!-- Row 3: QA -->
+  <rect x="60" y="446" width="32" height="18" fill="none" stroke="#00e0ff" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="76" y="459" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" fill="#00e0ff">QA</text>
+  <text x="60" y="490" font-family="ui-sans-serif, sans-serif" font-size="15" font-weight="700" fill="#f2f8fc">Qualidade &amp; Confiabilidade</text>
+  <g font-family="ui-sans-serif, sans-serif" font-size="14" fill="#9fb9cc">
+    <text x="340" y="454">Lideran&#231;a t&#233;cnica na ado&#231;&#227;o de testes automatizados.</text>
+    <text x="340" y="474">Hist&#243;rico de 100% code coverage (TDD) em gateways de</text>
+    <text x="340" y="494">pagamento e fluxos transacionais com idempot&#234;ncia</text>
+    <text x="340" y="514">absoluta.</text>
+  </g>
+  <line x1="60" y1="546" x2="940" y2="546" stroke="#16283d" stroke-width="1"/>
+
+  <!-- Row 4: PERF -->
+  <rect x="60" y="568" width="40" height="18" fill="none" stroke="#00e0ff" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="80" y="581" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" fill="#00e0ff">PERF</text>
+  <text x="60" y="612" font-family="ui-sans-serif, sans-serif" font-size="15" font-weight="700" fill="#f2f8fc">Performance &amp;</text>
+  <text x="60" y="632" font-family="ui-sans-serif, sans-serif" font-size="15" font-weight="700" fill="#f2f8fc">Escalabilidade</text>
+  <g font-family="ui-sans-serif, sans-serif" font-size="14" fill="#9fb9cc">
+    <text x="340" y="576">Tuning avan&#231;ado em PostgreSQL/MySQL, locks</text>
+    <text x="340" y="596">distribu&#237;dos contra race conditions e caching em</text>
+    <text x="340" y="616">m&#250;ltiplas camadas para SLAs rigorosos sob alto</text>
+    <text x="340" y="636">estresse de tr&#225;fego.</text>
+  </g>
+</svg>
