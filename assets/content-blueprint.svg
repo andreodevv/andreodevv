@@ -1,0 +1,198 @@
+<svg width="1000" height="2058" viewBox="0 0 1000 2058" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid3" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#00e0ff" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="2058" fill="#0a1729"/>
+  <rect width="1000" height="2058" fill="url(#grid3)"/>
+
+  <g stroke="#00e0ff" stroke-opacity="0.45" stroke-width="1.5">
+    <path d="M18 34 V18 H34" fill="none"/>
+    <path d="M966 18 H982 V34" fill="none"/>
+    <path d="M982 2024 V2040 H966" fill="none"/>
+    <path d="M34 2040 H18 V2024" fill="none"/>
+  </g>
+
+  <!-- ============ SECTION 1: FILOSOFIA (0-700) ============ -->
+  <g transform="translate(0,0)">
+    <text x="60" y="57" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="600" fill="#f2f8fc"><tspan fill="#00e0ff">// </tspan>FILOSOFIA DE ENGENHARIA &amp; ARQUITETURA</text>
+
+    <g font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="17" fill="#9fb9cc">
+      <text x="60" y="97">Minhas decis&#245;es baseiam-se na an&#225;lise rigorosa de trade-offs, priorizando</text>
+      <text x="60" y="122">manutenibilidade e confiabilidade em sistemas de miss&#227;o cr&#237;tica:</text>
+    </g>
+
+    <rect x="60" y="147" width="880" height="51" fill="#0d1e34" stroke="#1e3a54" stroke-width="1"/>
+    <text x="80" y="178" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#00e0ff">[ EDA ] &#9480;&#9480;&#9656; [ SECURITY ] &#9480;&#9480;&#9656; [ QA ] &#9480;&#9480;&#9656; [ PERF ]</text>
+
+    <text x="60" y="230" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#5c8aa3">PILAR</text>
+    <text x="340" y="230" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#5c8aa3">APLICA&#199;&#195;O PR&#193;TICA</text>
+    <line x1="60" y1="244" x2="940" y2="244" stroke="#1e3a54" stroke-width="1"/>
+
+    <rect x="60" y="269" width="36" height="21" fill="none" stroke="#00e0ff" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="78" y="284" text-anchor="middle" font-family="ui-monospace, monospace" font-size="12" fill="#00e0ff">EDA</text>
+    <text x="60" y="320" font-family="ui-sans-serif, sans-serif" font-size="17" font-weight="700" fill="#f2f8fc">Sistemas Distribu&#237;dos &amp;</text>
+    <text x="60" y="343" font-family="ui-sans-serif, sans-serif" font-size="17" font-weight="700" fill="#f2f8fc">Mensageria</text>
+    <g font-family="ui-sans-serif, sans-serif" font-size="16" fill="#9fb9cc">
+      <text x="340" y="278">Desacoplamento de fluxos monol&#237;ticos com Event-Driven</text>
+      <text x="340" y="301">Architecture. Processamento ass&#237;ncrono massivo e</text>
+      <text x="340" y="324">toler&#226;ncia a falhas via RabbitMQ e Redis.</text>
+    </g>
+    <line x1="60" y1="366" x2="940" y2="366" stroke="#16283d" stroke-width="1"/>
+
+    <rect x="60" y="391" width="36" height="21" fill="none" stroke="#00e0ff" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="78" y="406" text-anchor="middle" font-family="ui-monospace, monospace" font-size="12" fill="#00e0ff">SEC</text>
+    <text x="60" y="442" font-family="ui-sans-serif, sans-serif" font-size="17" font-weight="700" fill="#f2f8fc">Seguran&#231;a Integrada</text>
+    <text x="60" y="465" font-family="ui-sans-serif, sans-serif" font-size="17" font-weight="700" fill="#f2f8fc">(Security by Design)</text>
+    <g font-family="ui-sans-serif, sans-serif" font-size="16" fill="#9fb9cc">
+      <text x="340" y="400">Especialista em Ciberseguran&#231;a pela PUC Minas.</text>
+      <text x="340" y="423">Criptografia nativa, mitiga&#231;&#227;o de vetores OWASP e</text>
+      <text x="340" y="446">governan&#231;a de dados (LGPD) na camada base da aplica&#231;&#227;o.</text>
+    </g>
+    <line x1="60" y1="488" x2="940" y2="488" stroke="#16283d" stroke-width="1"/>
+
+    <rect x="60" y="513" width="32" height="21" fill="none" stroke="#00e0ff" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="76" y="528" text-anchor="middle" font-family="ui-monospace, monospace" font-size="12" fill="#00e0ff">QA</text>
+    <text x="60" y="564" font-family="ui-sans-serif, sans-serif" font-size="17" font-weight="700" fill="#f2f8fc">Qualidade &amp; Confiabilidade</text>
+    <g font-family="ui-sans-serif, sans-serif" font-size="16" fill="#9fb9cc">
+      <text x="340" y="522">Lideran&#231;a t&#233;cnica na ado&#231;&#227;o de testes automatizados.</text>
+      <text x="340" y="545">Hist&#243;rico de 100% code coverage (TDD) em gateways de</text>
+      <text x="340" y="568">pagamento e fluxos transacionais com idempot&#234;ncia</text>
+      <text x="340" y="591">absoluta.</text>
+    </g>
+    <line x1="60" y1="628" x2="940" y2="628" stroke="#16283d" stroke-width="1"/>
+
+    <rect x="60" y="653" width="40" height="21" fill="none" stroke="#00e0ff" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="80" y="668" text-anchor="middle" font-family="ui-monospace, monospace" font-size="12" fill="#00e0ff">PERF</text>
+    <text x="60" y="704" font-family="ui-sans-serif, sans-serif" font-size="17" font-weight="700" fill="#f2f8fc">Performance &amp;</text>
+    <text x="60" y="727" font-family="ui-sans-serif, sans-serif" font-size="17" font-weight="700" fill="#f2f8fc">Escalabilidade</text>
+    <g font-family="ui-sans-serif, sans-serif" font-size="16" fill="#9fb9cc">
+      <text x="340" y="662">Tuning avan&#231;ado em PostgreSQL/MySQL, locks</text>
+      <text x="340" y="685">distribu&#237;dos contra race conditions e caching em</text>
+      <text x="340" y="708">m&#250;ltiplas camadas para SLAs rigorosos sob alto</text>
+      <text x="340" y="731">estresse de tr&#225;fego.</text>
+    </g>
+  </g>
+
+  <line x1="60" y1="828" x2="940" y2="828" stroke="#16283d" stroke-width="1"/>
+
+  <!-- ============ SECTION 2: STACK CORE & INFRAESTRUTURA (translate 0,740) ============ -->
+  <g transform="translate(0,851)">
+    <text x="60" y="57" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="600" fill="#f2f8fc"><tspan fill="#00e0ff">// </tspan>STACK CORE &amp; INFRAESTRUTURA</text>
+
+    <text x="60" y="99" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#5c8aa3">BACKEND &amp; ARQUITETURA</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#cfe4f2">
+      <rect x="60" y="115" width="52" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="86" y="138" text-anchor="middle">PHP</text>
+      <rect x="122" y="115" width="83" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="163.5" y="138" text-anchor="middle">Laravel</text>
+      <rect x="215" y="115" width="83" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="256.5" y="138" text-anchor="middle">Node.js</text>
+      <rect x="308" y="115" width="106" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="361" y="138" text-anchor="middle">TypeScript</text>
+      <rect x="424" y="115" width="122" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="485" y="138" text-anchor="middle">C# / ASP.NET</text>
+    </g>
+
+    <text x="60" y="191" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#5c8aa3">FRONTEND</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#cfe4f2">
+      <rect x="60" y="207" width="75" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="97.5" y="230" text-anchor="middle">Vue.js</text>
+      <rect x="145" y="207" width="67" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="178.5" y="230" text-anchor="middle">React</text>
+      <rect x="222" y="207" width="122" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="283" y="230" text-anchor="middle">React Native</text>
+      <rect x="354" y="207" width="106" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="407" y="230" text-anchor="middle">JavaScript</text>
+    </g>
+
+    <text x="60" y="283" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#5c8aa3">DADOS &amp; CACHE</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#cfe4f2">
+      <rect x="60" y="299" width="106" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="113" y="322" text-anchor="middle">PostgreSQL</text>
+      <rect x="176" y="299" width="67" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="209.5" y="322" text-anchor="middle">MySQL</text>
+      <rect x="253" y="299" width="106" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="306" y="322" text-anchor="middle">SQL Server</text>
+      <rect x="369" y="299" width="67" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="402.5" y="322" text-anchor="middle">Redis</text>
+    </g>
+
+    <text x="60" y="375" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#5c8aa3">INFRAESTRUTURA &amp; CLOUD</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#cfe4f2">
+      <rect x="60" y="391" width="52" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="86" y="414" text-anchor="middle">AWS</text>
+      <rect x="122" y="391" width="67" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="155.5" y="414" text-anchor="middle">Azure</text>
+      <rect x="199" y="391" width="75" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="236.5" y="414" text-anchor="middle">Docker</text>
+      <rect x="284" y="391" width="83" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="325.5" y="414" text-anchor="middle">Traefik</text>
+      <rect x="377" y="391" width="91" height="34" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.5"/>
+      <text x="422.5" y="414" text-anchor="middle">RabbitMQ</text>
+    </g>
+
+    <text x="60" y="467" font-family="ui-sans-serif, sans-serif" font-size="15" font-style="italic" fill="#9fb9cc">Automa&#231;&#227;o &amp; Scraping &#8212; Selenium &#183; Laravel Dusk &#183; GraphQL/REST</text>
+  </g>
+
+  <line x1="60" y1="1380" x2="940" y2="1380" stroke="#16283d" stroke-width="1"/>
+
+  <!-- ============ SECTION 3: PROJETOS (translate 0,1220) ============ -->
+  <g transform="translate(0,1403)">
+    <text x="60" y="57" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="600" fill="#f2f8fc"><tspan fill="#00e0ff">// </tspan>PROJETOS &amp; ARQUITETURAS EM DESTAQUE</text>
+
+    <!-- Card 1: Smart Resume -->
+    <rect x="60" y="103" width="430" height="218" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.35" stroke-width="1"/>
+    <rect x="80" y="122" width="76" height="21" fill="none" stroke="#00e0ff" stroke-opacity="0.5"/>
+    <text x="118" y="137" text-anchor="middle" font-family="ui-monospace, monospace" font-size="12" fill="#00e0ff">PROJ &#183; 01</text>
+    <text x="80" y="170" font-family="ui-sans-serif, sans-serif" font-size="20" font-weight="700" fill="#f2f8fc">Smart Resume</text>
+    <text x="80" y="193" font-family="ui-sans-serif, sans-serif" font-size="14" font-weight="600" fill="#5fc9e0">Serverless &amp; Edge Computing</text>
+    <g font-family="ui-sans-serif, sans-serif" font-size="15" fill="#9fb9cc">
+      <text x="80" y="221">Zero-dependency (Vanilla JS/CSS), 100/100</text>
+      <text x="80" y="241">no Core Web Vitals. Edge CDN + telemetria</text>
+      <text x="80" y="262">ass&#237;ncrona em PostgreSQL (Supabase), 100%</text>
+      <text x="80" y="283">serverless.</text>
+    </g>
+    <text x="80" y="306" font-family="ui-monospace, monospace" font-size="13" fill="#5c9db3">&#8594; andreodevv.github.io/portfolio</text>
+
+    <!-- Card 2: Bar.Ganha -->
+    <rect x="510" y="103" width="430" height="218" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.35" stroke-width="1"/>
+    <rect x="530" y="122" width="76" height="21" fill="none" stroke="#00e0ff" stroke-opacity="0.5"/>
+    <text x="568" y="137" text-anchor="middle" font-family="ui-monospace, monospace" font-size="12" fill="#00e0ff">PROJ &#183; 02</text>
+    <text x="530" y="170" font-family="ui-sans-serif, sans-serif" font-size="20" font-weight="700" fill="#f2f8fc">Bar.Ganha</text>
+    <text x="530" y="193" font-family="ui-sans-serif, sans-serif" font-size="14" font-weight="600" fill="#5fc9e0">E-commerce &amp; Economia Circular</text>
+    <g font-family="ui-sans-serif, sans-serif" font-size="15" fill="#9fb9cc">
+      <text x="530" y="221">C# / ASP.NET MVC, camadas BLL/DAL,</text>
+      <text x="530" y="241">integridade transacional via SQL Server,</text>
+      <text x="530" y="262">pronto p/ escala no Azure. Nota m&#225;xima e</text>
+      <text x="530" y="283">incuba&#231;&#227;o PUC Minas.</text>
+    </g>
+
+    <!-- Card 3: CalorieCounter -->
+    <rect x="60" y="345" width="430" height="218" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.35" stroke-width="1"/>
+    <rect x="80" y="363" width="76" height="21" fill="none" stroke="#00e0ff" stroke-opacity="0.5"/>
+    <text x="118" y="378" text-anchor="middle" font-family="ui-monospace, monospace" font-size="12" fill="#00e0ff">PROJ &#183; 03</text>
+    <text x="80" y="412" font-family="ui-sans-serif, sans-serif" font-size="20" font-weight="700" fill="#f2f8fc">CalorieCounter</text>
+    <text x="80" y="435" font-family="ui-sans-serif, sans-serif" font-size="14" font-weight="600" fill="#5fc9e0">Motor Biof&#237;sico &amp; Clean Architecture</text>
+    <g font-family="ui-sans-serif, sans-serif" font-size="15" fill="#9fb9cc">
+      <text x="80" y="462">Full Stack (Laravel/Vue.js), Clean</text>
+      <text x="80" y="483">Architecture com Service/Repository</text>
+      <text x="80" y="504">Patterns, alta testabilidade e</text>
+      <text x="80" y="524">persist&#234;ncia isolada (PostgreSQL).</text>
+    </g>
+
+    <!-- Card 4: FinImprover -->
+    <rect x="510" y="345" width="430" height="218" fill="#0d1e34" stroke="#00e0ff" stroke-opacity="0.35" stroke-width="1"/>
+    <rect x="530" y="363" width="76" height="21" fill="none" stroke="#00e0ff" stroke-opacity="0.5"/>
+    <text x="568" y="378" text-anchor="middle" font-family="ui-monospace, monospace" font-size="12" fill="#00e0ff">PROJ &#183; 04</text>
+    <text x="530" y="412" font-family="ui-sans-serif, sans-serif" font-size="20" font-weight="700" fill="#f2f8fc">FinImprover</text>
+    <text x="530" y="435" font-family="ui-sans-serif, sans-serif" font-size="14" font-weight="600" fill="#5fc9e0">Pipeline ETL &amp; BI Financeiro</text>
+    <g font-family="ui-sans-serif, sans-serif" font-size="15" fill="#9fb9cc">
+      <text x="530" y="462">Pipeline ETL (importa&#231;&#227;o, sanitiza&#231;&#227;o,</text>
+      <text x="530" y="483">categoriza&#231;&#227;o) + Laravel Livewire/MySQL,</text>
+      <text x="530" y="504">dashboards de fluxo de caixa em tempo real.</text>
+    </g>
+  </g>
+</svg>

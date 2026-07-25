@@ -17,97 +17,6 @@
 
 ---
 
-<div align="center">
-  <img src="./assets/philosophy-blueprint.svg" width="100%" alt="Filosofia de Engenharia & Arquitetura" />
-</div>
-
----
-
-### `// STACK CORE & INFRAESTRUTURA`
-
-**Backend & Arquitetura**
-
-![PHP](https://img.shields.io/badge/PHP-0a1729?style=for-the-badge&logo=php&logoColor=00e0ff)
-![Laravel](https://img.shields.io/badge/Laravel-0a1729?style=for-the-badge&logo=laravel&logoColor=00e0ff)
-![Node.js](https://img.shields.io/badge/Node.js-0a1729?style=for-the-badge&logo=nodedotjs&logoColor=00e0ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a1729?style=for-the-badge&logo=typescript&logoColor=00e0ff)
-![C#](https://img.shields.io/badge/C%23_ASP.NET-0a1729?style=for-the-badge&logo=dotnet&logoColor=00e0ff)
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-0a1729?style=for-the-badge&logo=vuedotjs&logoColor=00e0ff)
-![React](https://img.shields.io/badge/React-0a1729?style=for-the-badge&logo=react&logoColor=00e0ff)
-![React Native](https://img.shields.io/badge/React_Native-0a1729?style=for-the-badge&logo=react&logoColor=00e0ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a1729?style=for-the-badge&logo=javascript&logoColor=00e0ff)
-
-**Dados & Cache**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1729?style=for-the-badge&logo=postgresql&logoColor=00e0ff)
-![MySQL](https://img.shields.io/badge/MySQL-0a1729?style=for-the-badge&logo=mysql&logoColor=00e0ff)
-![SQL Server](https://img.shields.io/badge/SQL_Server-0a1729?style=for-the-badge&logo=microsoftsqlserver&logoColor=00e0ff)
-![Redis](https://img.shields.io/badge/Redis-0a1729?style=for-the-badge&logo=redis&logoColor=00e0ff)
-
-**Infraestrutura & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-0a1729?style=for-the-badge&logo=amazon-aws&logoColor=00e0ff)
-![Azure](https://img.shields.io/badge/Azure-0a1729?style=for-the-badge&logo=microsoftazure&logoColor=00e0ff)
-![Docker](https://img.shields.io/badge/Docker-0a1729?style=for-the-badge&logo=docker&logoColor=00e0ff)
-![Traefik](https://img.shields.io/badge/Traefik-0a1729?style=for-the-badge&logo=traefikproxy&logoColor=00e0ff)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0a1729?style=for-the-badge&logo=rabbitmq&logoColor=00e0ff)
-
-> **Automação & Scraping:** extração e ingestão de dados em larga escala com **Selenium**, **Laravel Dusk** e integrações de API complexas (**GraphQL/REST**).
-
----
-
-### `// PROJETOS & ARQUITETURAS EM DESTAQUE`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-`PROJ · 01`
-### Smart Resume
-**Serverless & Edge Computing**
-
-Portfólio interativo sob filosofia Zero-Dependency (Vanilla JS/CSS) para 100/100 no Core Web Vitals. Frontend distribuído via Edge CDN (Vercel/GitHub Pages) e pipeline de telemetria assíncrona ingerindo métricas em tempo real em PostgreSQL gerenciado (Supabase), operando serverless.
-
-[🔗 Ver projeto](https://andreodevv.github.io/portfolio/)
-
-</td>
-<td width="50%" valign="top">
-
-`PROJ · 02`
-### Bar.Ganha
-**E-commerce & Economia Circular**
-
-Plataforma em C# / ASP.NET MVC com separação rigorosa de camadas (BLL e DAL), garantindo integridade transacional via SQL Server e pronta para escala vertical/horizontal no Azure. Resultou em nota máxima e convite formal para incubação pela PUC Minas.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-`PROJ · 03`
-### CalorieCounter
-**Motor Biofísico & Clean Architecture**
-
-Full Stack (Laravel/Vue.js) para cálculos de variáveis biofísicas e ajustes preditivos de macronutrientes. Clean Architecture estrita isolando regras de domínio via Service e Repository Patterns, com alta testabilidade e desacoplamento total da persistência (PostgreSQL).
-
-</td>
-<td width="50%" valign="top">
-
-`PROJ · 04`
-### FinImprover
-**Pipeline ETL & BI Financeiro**
-
-Motor preditivo de orçamento com pipeline ETL para importação, sanitização e categorização de bases financeiras legadas. Interface de análise otimizada para I/O de baixa latência com Laravel Livewire + MySQL, projetando cenários de fluxo de caixa em dashboards em tempo real.
-
-</td>
-</tr>
-</table>
-
----
-
 ### `// GITHUB ANALYTICS`
 
 <div align="center">
@@ -119,6 +28,12 @@ Motor preditivo de orçamento com pipeline ETL para importação, sanitização 
 
 <img src="https://github-profile-trophy.vercel.app/?username=andreodevv&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 
+</div>
+
+---
+
+<div align="center">
+  <img src="./assets/content-blueprint.svg" width="100%" alt="Filosofia de Engenharia, Stack Core e Projetos em Destaque" />
 </div>
 
 ---
