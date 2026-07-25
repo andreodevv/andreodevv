@@ -17,12 +17,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=andreodevv&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=00e0ff&icon_color=00e0ff&bg_color=0a1729" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreodevv&layout=compact&hide_border=true&theme=tokyonight&title_color=00e0ff&langs_count=8&bg_color=0a1729" alt="Top Languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=andreodevv&show_icons=true&hide_border=true&theme=tokyonight&title_color=00e0ff&icon_color=00e0ff&bg_color=0a1729" alt="GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=andreodevv&layout=compact&hide_border=true&theme=tokyonight&title_color=00e0ff&bg_color=0a1729" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreodevv&hide_border=true&theme=tokyonight&ring=00e0ff&fire=00e0ff&currStreakLabel=00e0ff&background=0a1729" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=andreodevv&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 
 </div>
 
