@@ -1,22 +1,54 @@
-<svg width="1000" height="2280" viewBox="0 0 1000 2280" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="2824" viewBox="0 0 1000 2824" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="grid3" width="28" height="28" patternUnits="userSpaceOnUse">
       <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#00e0ff" stroke-opacity="0.08" stroke-width="1"/>
     </pattern>
   </defs>
 
-  <rect width="1000" height="2280" fill="#0a1729"/>
-  <rect width="1000" height="2280" fill="url(#grid3)"/>
+  <rect width="1000" height="2824" fill="#0a1729"/>
+  <rect width="1000" height="2824" fill="url(#grid3)"/>
 
   <g stroke="#00e0ff" stroke-opacity="0.45" stroke-width="1.5">
     <path d="M18 34 V18 H34" fill="none"/>
     <path d="M966 18 H982 V34" fill="none"/>
-    <path d="M982 2246 V2262 H966" fill="none"/>
-    <path d="M34 2262 H18 V2246" fill="none"/>
+    <path d="M982 2790 V2806 H966" fill="none"/>
+    <path d="M34 2806 H18 V2790" fill="none"/>
   </g>
 
-  <!-- ============ SECTION 1: FILOSOFIA (0-700) ============ -->
+  <!-- ============ SECTION 0: PERFIL & SOBRE (translate 0,0) ============ -->
   <g transform="translate(0,0)">
+    <text x="60" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#5c8aa3">// PERFIL T&#201;CNICO &#183; REV. 2026</text>
+
+    <text x="58" y="118" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="46" font-weight="600" letter-spacing="-0.5" fill="#f2f8fc">Andr&#233; Silva</text>
+
+    <line x1="60" y1="138" x2="500" y2="138" stroke="#1e3a54" stroke-width="1"/>
+
+    <text x="60" y="168" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="500" fill="#00e0ff">Senior Software Developer &amp; Architect</text>
+    <rect x="447" y="153" width="9" height="18" fill="#00e0ff">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="60" y1="196" x2="940" y2="196" stroke="#16283d" stroke-width="1"/>
+
+    <text x="60" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#5c8aa3">// SOBRE</text>
+
+    <g font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" fill="#9fb9cc">
+      <text x="60" y="262">Desenvolvedor de Software especializado em sistemas distribu&#237;dos, arquiteturas</text>
+      <text x="60" y="288">de alta disponibilidade e resili&#234;ncia. Projetei e sustentei o core de plataformas</text>
+      <text x="60" y="314">processando <tspan font-weight="700" fill="#f2f8fc">milh&#245;es de requisi&#231;&#245;es por minuto</tspan> para uma base de</text>
+      <text x="60" y="340">mais de <tspan font-weight="700" fill="#f2f8fc">30 milh&#245;es de usu&#225;rios ativos</tspan>.</text>
+
+      <text x="60" y="382">Minha atua&#231;&#227;o foca na intersec&#231;&#227;o entre <tspan font-weight="700" fill="#f2f8fc">engenharia rigorosa, arquitetura de</tspan></text>
+      <text x="60" y="408"><tspan font-weight="700" fill="#f2f8fc">neg&#243;cio e ciberseguran&#231;a</tspan>, garantindo que a escalabilidade agressiva do</text>
+      <text x="60" y="434">neg&#243;cio n&#227;o comprometa a estabilidade, a performance de I/O ou a prote&#231;&#227;o</text>
+      <text x="60" y="460">dos dados.</text>
+    </g>
+  </g>
+
+  <line x1="60" y1="520" x2="940" y2="520" stroke="#16283d" stroke-width="1"/>
+
+  <!-- ============ SECTION 1: FILOSOFIA ============ -->
+  <g transform="translate(0,544)">
     <text x="60" y="57" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="600" fill="#f2f8fc"><tspan fill="#00e0ff">// </tspan>FILOSOFIA DE ENGENHARIA &amp; ARQUITETURA</text>
     <rect x="668" y="35" width="12" height="26" fill="#00e0ff">
       <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>
@@ -79,10 +111,10 @@
     </g>
   </g>
 
-  <line x1="60" y1="828" x2="940" y2="828" stroke="#16283d" stroke-width="1"/>
+  <line x1="60" y1="1372" x2="940" y2="1372" stroke="#16283d" stroke-width="1"/>
 
-  <!-- ============ SECTION 2: STACK CORE & INFRAESTRUTURA (translate 0,740) ============ -->
-  <g transform="translate(0,851)">
+  <!-- ============ SECTION 2: STACK CORE & INFRAESTRUTURA ============ -->
+  <g transform="translate(0,1395)">
     <text x="60" y="57" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="600" fill="#f2f8fc"><tspan fill="#00e0ff">// </tspan>STACK CORE &amp; INFRAESTRUTURA</text>
     <rect x="524" y="35" width="12" height="26" fill="#00e0ff">
       <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>
@@ -148,10 +180,10 @@
     <text x="60" y="497" font-family="ui-sans-serif, sans-serif" font-size="15" font-style="italic" fill="#9fb9cc">Automa&#231;&#227;o &amp; Scraping &#8212; Selenium &#183; Laravel Dusk &#183; GraphQL/REST</text>
   </g>
 
-  <line x1="60" y1="1410" x2="940" y2="1410" stroke="#16283d" stroke-width="1"/>
+  <line x1="60" y1="1954" x2="940" y2="1954" stroke="#16283d" stroke-width="1"/>
 
-  <!-- ============ SECTION 3: PROJETOS (translate 0,1220) ============ -->
-  <g transform="translate(0,1433)">
+  <!-- ============ SECTION 3: PROJETOS ============ -->
+  <g transform="translate(0,1977)">
     <text x="60" y="57" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="600" fill="#f2f8fc"><tspan fill="#00e0ff">// </tspan>PROJETOS &amp; ARQUITETURAS EM DESTAQUE</text>
     <rect x="640" y="35" width="12" height="26" fill="#00e0ff">
       <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>
@@ -210,10 +242,10 @@
     </g>
   </g>
 
-  <line x1="60" y1="2036" x2="940" y2="2036" stroke="#16283d" stroke-width="1"/>
+  <line x1="60" y1="2580" x2="940" y2="2580" stroke="#16283d" stroke-width="1"/>
 
-  <!-- ============ SECTION 4: CONTATO & DISCUSSÕES TÉCNICAS (translate 0,2030) ============ -->
-  <g transform="translate(0,2060)">
+  <!-- ============ SECTION 4: CONTATO & DISCUSSÕES TÉCNICAS ============ -->
+  <g transform="translate(0,2604)">
     <text x="60" y="57" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="600" fill="#f2f8fc">CONTATO &amp; DISCUSS&#213;ES T&#201;CNICAS</text>
     <rect x="510" y="35" width="12" height="26" fill="#00e0ff">
       <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>

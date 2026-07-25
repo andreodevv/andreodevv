@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/header-blueprint.svg" width="100%" alt="André Silva — Senior Software Developer & Architect" />
-
 <table width="100%" cellpadding="20" cellspacing="0" border="0">
 <tr>
 <td align="center" bgcolor="#0a1729">
@@ -17,6 +15,12 @@
   <img src="https://komarev.com/ghpvc/?username=andreodevv&style=for-the-badge&color=0a1729&label=PROFILE+VIEWS&labelColor=0a1729" alt="Profile views" />
 </p>
 
+<p>
+  <a href="https://linkedin.com/in/andreodev"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0a1729?style=for-the-badge&logo=linkedin&logoColor=00e0ff" alt="LinkedIn" /></a>
+  <a href="https://andreodevv.github.io/portfolio/"><img src="https://img.shields.io/badge/Vitrine_T%C3%A9cnica-0a1729?style=for-the-badge&logo=vercel&logoColor=00e0ff" alt="Portfólio" /></a>
+  <a href="mailto:andreodevv@gmail.com"><img src="https://img.shields.io/badge/andreodevv@gmail.com-0a1729?style=for-the-badge&logo=gmail&logoColor=00e0ff" alt="Email" /></a>
+</p>
+
 <br/>
 
 <img height="120" src="https://github-stats-extended.vercel.app/api?username=andreodevv&show_icons=true&hide_border=true&hide_rank=true&theme=tokyonight&title_color=00e0ff&icon_color=00e0ff&bg_color=0a1729" alt="GitHub Stats" />
@@ -30,5 +34,5 @@
 </div>
 
 <div align="center">
-  <img src="./assets/content-blueprint.svg" width="100%" alt="Filosofia de Engenharia, Stack Core, Projetos em Destaque e Contato" />
+  <img src="./assets/content-blueprint.svg" width="100%" alt="Perfil, Filosofia de Engenharia, Stack Core, Projetos em Destaque e Contato" />
 </div>
