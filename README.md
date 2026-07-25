@@ -17,13 +17,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=andreodevv&show_icons=true&hide_border=true&theme=tokyonight&title_color=00e0ff&icon_color=00e0ff&bg_color=0a1729" alt="GitHub Stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=andreodevv&layout=compact&hide_border=true&theme=tokyonight&title_color=00e0ff&bg_color=0a1729" alt="Top Languages" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=andreodevv&hide_border=true&theme=tokyonight&ring=00e0ff&fire=00e0ff&currStreakLabel=00e0ff&background=0a1729" alt="GitHub Streak" />
+<img height="120" src="https://github-stats-extended.vercel.app/api?username=andreodevv&show_icons=true&hide_border=true&hide_rank=true&theme=tokyonight&title_color=00e0ff&icon_color=00e0ff&bg_color=0a1729" alt="GitHub Stats" />
+<img height="120" src="https://github-stats-extended.vercel.app/api/top-langs?username=andreodevv&layout=compact&hide_border=true&theme=tokyonight&title_color=00e0ff&bg_color=0a1729" alt="Top Languages" />
+<img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=andreodevv&hide_border=true&theme=tokyonight&ring=00e0ff&fire=00e0ff&currStreakLabel=00e0ff&background=0a1729" alt="GitHub Streak" />
 
 </div>
-
----
 
 <div align="center">
   <img src="./assets/content-blueprint.svg" width="100%" alt="Filosofia de Engenharia, Stack Core, Projetos em Destaque e Contato" />
