@@ -32,11 +32,3 @@
 <div align="center">
   <img src="./assets/content-blueprint.svg" width="100%" alt="Filosofia de Engenharia, Stack Core, Projetos em Destaque e Contato" />
 </div>
-
-<div align="center">
-
-<a href="https://linkedin.com/in/andreodev"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0a1729?style=for-the-badge&logo=linkedin&logoColor=00e0ff" alt="LinkedIn" /></a>
-<a href="https://andreodevv.github.io/portfolio/"><img src="https://img.shields.io/badge/Vitrine_T%C3%A9cnica-0a1729?style=for-the-badge&logo=vercel&logoColor=00e0ff" alt="Portfólio" /></a>
-<a href="mailto:andreodevv@gmail.com"><img src="https://img.shields.io/badge/andreodevv@gmail.com-0a1729?style=for-the-badge&logo=gmail&logoColor=00e0ff" alt="Email" /></a>
-
-</div>
