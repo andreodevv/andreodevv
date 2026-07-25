@@ -15,9 +15,9 @@
 
 </div>
 
----
-
-### `// GITHUB ANALYTICS`
+<div align="center">
+  <img src="./assets/analytics-title.svg" width="100%" alt="GitHub Analytics" />
+</div>
 
 <div align="center">
 
@@ -33,14 +33,8 @@
 ---
 
 <div align="center">
-  <img src="./assets/content-blueprint.svg" width="100%" alt="Filosofia de Engenharia, Stack Core e Projetos em Destaque" />
+  <img src="./assets/content-blueprint.svg" width="100%" alt="Filosofia de Engenharia, Stack Core, Projetos em Destaque e Contato" />
 </div>
-
----
-
-### `// CONTATO & DISCUSSÕES TÉCNICAS`
-
-Disponível para discutir desafios arquiteturais de alta complexidade, modernização de sistemas legados ou mentoria técnica em ambientes de alto desempenho.
 
 <div align="center">
 
